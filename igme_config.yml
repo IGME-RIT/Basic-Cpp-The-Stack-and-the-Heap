@@ -4,7 +4,7 @@ author:
   name: David Erbelding
   email: daviderbelding@gmail.com
   github: https://github.com/Erbelding
-description: Take advantage of the new and delete keywords to manage objects on the heap.
+description:  An in depth introduction to the concepts of stack and heap memory.
 language: C++
 tags:
   - Core
