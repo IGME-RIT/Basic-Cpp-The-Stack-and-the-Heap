@@ -20,12 +20,15 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 // Include iostream for output during the program.
 #include <iostream>
-#include "../header/gun.h"
+#include "gun.h"
 
 using namespace std;
 
 int main() 
 {
+	int* array = new int[536870912];
+	printf("hi\n");
+
     {
         // Before we talk about new and delete, it's important to understand how pointers work.
         // If you haven't read the pointers tutorial, you should look at that first and then come back.

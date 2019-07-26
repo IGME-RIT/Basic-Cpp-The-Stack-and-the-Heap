@@ -19,7 +19,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 */
 
 // Includes
-#include "..\header\gun.h"
+#include "gun.h"
 #include <iostream>
 
 // This is the constructor definition for the magazine type.
